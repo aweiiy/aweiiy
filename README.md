@@ -7,7 +7,7 @@
 
  ```python
   class WhoAmI:
-    user = 'Edvinas'
+    user = 'Aweiiy'
 	current_edu = "CSIT"
     currently_learning = "CCNP"
 	hobbies = [
@@ -23,7 +23,6 @@
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
-		FinishMyProjects()
 	
  ```
 

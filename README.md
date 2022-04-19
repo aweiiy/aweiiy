@@ -9,11 +9,10 @@
   class WhoAmI:
     user = 'Aweiiy'
 	current_edu = "CSIT"
-    currently_learning = "CCNP"
+    currently_learning = "Crypto"
 	hobbies = [
 				'Music',
-                         'Chilling',
-			 	'Gaming',
+			 	'Clothing',
 				'Gym',
                          'App testing'
 			]
